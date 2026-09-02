@@ -1,0 +1,7 @@
+{ 
+  "version": "1.4",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.5.1/6-5-1_CWbackup_31_08.zip",
+  "updates": [
+    "Advent page parser updated"
+  ]
+}
