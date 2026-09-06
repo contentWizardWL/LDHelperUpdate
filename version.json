@@ -1,7 +1,8 @@
 { 
-  "version": "1.4",
-  "download": "https://github.com/contentWizardWL/LDHelperUpdate/releases/download/v1.4/LDHelper_1_4.zip",
+  "version": "2.0",
+  "download": "https://github.com/contentWizardWL/LDHelperUpdate/releases/download/v2.0/LDHelper_2_0.zip",
   "updates": [
-    "Advent page parser updated"
+    "1. Улучшена работа модуля Tag Cleaner",
+    "2. Добавлен модуль Fill Keys"
   ]
 }
