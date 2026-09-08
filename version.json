@@ -1,6 +1,6 @@
 { 
-  "version": "2.0",
-  "download": "https://github.com/contentWizardWL/LDHelperUpdate/releases/download/v2.0/LDHelper2-0.zip",
+  "version": "2.1",
+  "download": "https://github.com/contentWizardWL/LDHelperUpdate/releases/download/v2.1/LDHelper2-1.zip",
   "updates": [
     "1. Улучшена работа модуля Tag Cleaner",
     "2. Добавлен модуль Fill Keys"
